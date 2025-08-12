@@ -1,0 +1,7 @@
+# Proteus user-specific files
+*.WORKSPACE
+
+# Proteus backup files and folder
+*.DSN_BAK
+*.L_BAK
+Project Backups/
